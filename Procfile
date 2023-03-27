@@ -1,1 +1,1 @@
-web: streamlit run property_map2.py
+web: streamlit run property_map.py
